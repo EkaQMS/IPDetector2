@@ -1,0 +1,19 @@
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.exe.config
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.exe
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.pdb
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csprojResolveAssemblyReference.cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.Form1.resources
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.Properties.Resources.resources
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csproj.GenerateResource.Cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csproj.CoreCompileInputs.cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.exe
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.pdb
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\bin\Debug\IPDetector.exe.config
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.exe
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.pdb
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\bin\Debug\IPDetector.exe
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\bin\Debug\IPDetector.pdb
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.csprojResolveAssemblyReference.cache
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.Form1.resources
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.Properties.Resources.resources
+D:\Google Drive\Kuliah\Sem 7\Skripsi eka\IPDetector\IPDetector\IPDetector\obj\Debug\IPDetector.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.exe.config
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.exe
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\bin\Debug\IPDetector.pdb
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csprojResolveAssemblyReference.cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.Form1.resources
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.Properties.Resources.resources
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csproj.GenerateResource.Cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.csproj.CoreCompileInputs.cache
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.exe
+F:\AKDM\Seminar dan Skripsi\Program\IPDetector\IPDetector\obj\Debug\IPDetector.pdb
